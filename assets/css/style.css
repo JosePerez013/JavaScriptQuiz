@@ -49,7 +49,8 @@ li {
 }
 
 li:nth-child(odd) {
-  background-color: #f3edfc;
+  color: black;
+  background-color: white;
 }
 
 .wrapper {
