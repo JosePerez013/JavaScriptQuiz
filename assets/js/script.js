@@ -68,11 +68,11 @@ function questionClick(event) {
     timerEl.textContent = time;
     // play "wrong" sound effect
     sfxWrong.play();
-    feedbackEl.textContent = "Wrong!";
+    feedbackEl.textContent = "INCORRECT!";
   } else {
     // play "right" sound effect
     sfxRight.play();
-    feedbackEl.textContent = "Correct!";
+    feedbackEl.textContent = "CORRECT!";
   }
 
   // flash right/wrong feedback on page for half a second
