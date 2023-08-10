@@ -2,11 +2,13 @@
 
 ## Description
 
-I developed a simple JavaScript quiz that utilizes local storage to save users' scores. Through this project, I gained a solid understanding of JavaScript logic and Web APIs. Additionally, navigating the DOM during the development process enhanced my comprehension of HTML structure.
+- I developed a simple JavaScript quiz that utilizes local storage to save users' scores.
+- Through this project, I gained a solid understanding of JavaScript logic and Web APIs. 
+- Additionally, navigating the DOM during the development process enhanced my comprehension of HTML structure.
 
 ## Installation
 
-No installation is required. Simply visit the [live site]().
+No installation is required. Simply visit the [live site](https://joseperez013.github.io/JavaScriptQuiz/).
 
 ## Usage
 
